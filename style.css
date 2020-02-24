@@ -1,0 +1,85 @@
+
+body{
+    font-family: 'Poppins', ;
+}
+
+.carousel-indicators li{
+    background-color: lightgrey;
+}
+.banner-bg{
+    background-color: #232F3E;
+}
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: aqua;
+    
+}
+.carousel-item h1{
+    color: white;
+    font-weight: 700;
+
+}
+.carousel-item p{
+    color: white;
+    
+}
+.carousel-item{
+    padding: 20px 100px;
+}
+button{
+    background-color: #2AB4E6;
+    border: 0px solid;
+    padding: 10px 20px;
+    color: white;
+}
+#smartphone h2{
+    
+    padding-bottom: 20px;
+}
+.sell-all-color{
+    color: tomato;
+    padding-bottom: 10px;
+}
+
+.mobile-sha{
+    border: none;
+    box-shadow: 5px 5px 55px rgb(223, 223, 223);
+    border-radius: 20px 0 ;
+}
+.card-deck img{
+    padding: 50px 10px;
+}
+.line {
+	border-bottom: 7px solid yellow;
+	width: 142px;
+	margin-left: 46%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.bag{
+    border: none;
+    box-shadow: 10px 10px 30px #a1a1a1;  
+    padding: 50px 50px;
+    border-radius: 0px 5px 0px 20px;
+}
+
+.perfume{
+    border: none;
+    box-shadow: 10px 10px 30px #a1a1a1;  
+    padding: 50px 50px;
+    border-radius: 5px 0px 20px 0px;
+}
+
+
+
+.shoe{
+    border: none;
+    box-shadow: 10px 10px 30px #a1a1a1;  
+    padding: 50px 50px;
+    border-radius: 5px 0px 20px 0px;
+}
+
+
+
+
